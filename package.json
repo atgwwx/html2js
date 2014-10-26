@@ -1,0 +1,13 @@
+{
+    "name": "html2js",
+    "version": "1.0.0",
+    "description":"translate html to js",
+    "preferGlobal":"true",
+    "bin":{"html2js": "html2js.js"},
+    "author":"atgwwx",
+    "engines":{"node":"*"},
+    "dependencies": {
+        "optimist":"*",
+        "line-reader":"*"
+    }
+}
